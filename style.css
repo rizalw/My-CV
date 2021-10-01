@@ -23,7 +23,7 @@ a:hover{
     transition: 0.5s;
 }
 nav{
-    background-image: url("/image/bg-cv.jpg");
+    background-image: url("bg-cv.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 100px 0px 50px 100px;
